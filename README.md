@@ -22,7 +22,7 @@ Se você deseja contribuir para este projeto, sinta-se à vontade para criar um 
 
 ## Autor
 
-- **Gilmar Gomes de Lima** - [GitHub](https://github.com/seu-usuario)
+- **Gilmar Gomes de Lima** - [GitHub](https://github.com/GilmarGomes)
 
 ## Licença
 
