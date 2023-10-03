@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Calculadora com funções</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header><h1>CALCULADORA COM FUNÇÕES</h1></header>
+    <section>
+      <div class="container-form">
+        <label for="Num1">Digite um número</label>
+        <input type="number" name="num1" id="num1" />
+        <label for="num2">Digite outro número</label>
+        <input type="number" name="num2" id="num2" />
+      </div>
+      <div class="container-buttons">
+        <button type="button" onclick="adicao()">Adição</button>
+        <button type="button" onclick="subtrair()">Subtração</button>
+        <button type="button" onclick="multiplicar()">Multiplicação</button>
+        <button type="button" onclick="divisao()">Divisão</button>
+        <button type="button" onclick="limpar()">Limpar campos</button>
+      </div>
+      <div>
+        <p id="result">Calculando...</p>
+      </div>
+    </section>
+    <footer>
+      <small>
+        &copy; Todos os Direitos Autorais Reservados para Gilmar Gomes de
+        Lima</small
+      >
+    </footer>
+    <script src="script.js"></script>
+  </body>
+</html>
